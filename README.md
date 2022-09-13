@@ -1,3 +1,4 @@
+感谢P3TERX的模板，自己摸索编译openwrt固件
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
